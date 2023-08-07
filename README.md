@@ -34,3 +34,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar sugestões de e
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
 
 Divirta-se explorando os métodos de array no JavaScript com o Alura-Books!
+
+## Criador 👨‍💻
+
+Este projeto foi criado por kalebzaki4.
